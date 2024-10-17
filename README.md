@@ -24,4 +24,4 @@ By combining this data into a unified dataset, the project aims to explore varia
 
 🔬 **Exploratory Data Analysis (EDA):**
  - Groupping
- - Comparative Analysis
+ - Comparative Analysis: views, time, country
